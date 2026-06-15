@@ -1,0 +1,1 @@
+DAWAI EXPRESS is an autonomous IoT-enabled medicine dispensing robot designed to improve healthcare efficiency and safety. It uses Raspberry Pi-based facial recognition for secure patient authentication and an Arduino-driven line-following system for autonomous navigation and medicine delivery.
